@@ -1,1 +1,1 @@
-# mypackege
+# mypackage
